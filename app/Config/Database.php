@@ -26,10 +26,10 @@ class Database extends Config
      */
     public array $default = [
         'DSN'          => '',
-        'hostname'     => 'sql113.infinityfree.com',
-        'username'     => 'if0_39075483',
-        'password'     => 'livelovelebron',
-        'database'     => 'if0_39075483_tms_db',
+        'hostname'     => 'localhost',
+        'username'     => 'root',
+        'password'     => '',
+        'database'     => 'task-management-db',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
