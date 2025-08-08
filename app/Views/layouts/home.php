@@ -105,7 +105,7 @@
       <div class="col-lg-12 col-xxl-4">
         <div class="total-circle rounded-4 d-flex justify-content-center p-4">
           <div>
-            <p class="text-center total-custom">In Progresss</p>
+            <p class="text-center total-custom">In Progress</p>
             <button class="number-background" style="background-color: #FFC785"><?= $inProgressTasks ?? 0 ?></button>
           </div>
         </div>
